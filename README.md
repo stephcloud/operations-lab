@@ -16,3 +16,7 @@ Each module lives in its own folder with: labs, runbooks, screenshots, posts.
 
 ## Author
 Afunogu Stephanie | afunogu.online | linkedin.com/in/afunogu
+
+## Operating principles
+
+See [ADR-0002: Personal Engineering Principles](./ADRs/ADR-0002-personal-engineering-principles.md) for the 8 principles I hold myself to throughout this bootcamp.
