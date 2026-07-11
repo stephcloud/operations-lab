@@ -7,7 +7,7 @@
 | # | Module | Status |
 |---|--------|--------|
 | 01 | Foundations | In progress |
-| 02 | Linux | Not started |
+| 02 | Linux | Done |
 | 03 | Git | Not started |
 
 ## How this repo is organized
